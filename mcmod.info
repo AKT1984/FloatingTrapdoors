@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "floatingtrapdoors",
+    "name": "Floating Trapdoors",
+    "description": "Allows trapdoors to remain unsupported",
+    "version": "1.0",
+    "mcversion": "1.6.4"
+  }
+]
